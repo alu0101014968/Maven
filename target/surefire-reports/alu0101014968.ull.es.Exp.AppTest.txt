@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: alu0101014968.ull.es.Exp.AppTest
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.039 s - in alu0101014968.ull.es.Exp.AppTest
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.046 s - in alu0101014968.ull.es.Exp.AppTest
